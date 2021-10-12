@@ -1,0 +1,16 @@
+#grupo1 {
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+    padding-left: 25px;
+}
+
+.h11 {
+    color: black;
+    font-family: cursive;
+}
+
+#title {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
